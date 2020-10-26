@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.jcsb {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  width: 700px;
+}
+
+.jcc {
+  margin-top: 100px;
+}
