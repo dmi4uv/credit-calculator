@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/credit-calculator/static/css/main.79e2ef5b.chunk.css",
+    "main.js": "/credit-calculator/static/js/main.e381372b.chunk.js",
+    "main.js.map": "/credit-calculator/static/js/main.e381372b.chunk.js.map",
+    "runtime-main.js": "/credit-calculator/static/js/runtime-main.db1a3a05.js",
+    "runtime-main.js.map": "/credit-calculator/static/js/runtime-main.db1a3a05.js.map",
+    "static/js/2.c93ea24c.chunk.js": "/credit-calculator/static/js/2.c93ea24c.chunk.js",
+    "static/js/2.c93ea24c.chunk.js.map": "/credit-calculator/static/js/2.c93ea24c.chunk.js.map",
+    "index.html": "/credit-calculator/index.html",
+    "precache-manifest.e268fd892edadfc9db507ebcd0c095b9.js": "/credit-calculator/precache-manifest.e268fd892edadfc9db507ebcd0c095b9.js",
+    "service-worker.js": "/credit-calculator/service-worker.js",
+    "static/css/main.79e2ef5b.chunk.css.map": "/credit-calculator/static/css/main.79e2ef5b.chunk.css.map",
+    "static/js/2.c93ea24c.chunk.js.LICENSE.txt": "/credit-calculator/static/js/2.c93ea24c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db1a3a05.js",
+    "static/js/2.c93ea24c.chunk.js",
+    "static/css/main.79e2ef5b.chunk.css",
+    "static/js/main.e381372b.chunk.js"
+  ]
+}
